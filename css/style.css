@@ -1,0 +1,49 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+body {
+    background-color: #333333;
+    display: flex;
+}
+#game {
+    margin: auto;
+}
+h1, p{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    margin: auto;
+}
+.column {
+    position: center;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33.33%;
+    margin: auto;
+}
+.row:after {
+    position: relative;
+    display: table;
+    clear: both;
+}
+.tetris {
+    margin: 10;
+}
+#mute-music {
+    cursor: pointer;
+}
+#cover{
+    pointer-events: none;
+    position:fixed;
+    top:0;
+    left:0;
+    background:rgb(0,0,0);
+    opacity: 0;
+    z-index:5;
+    width:100%;
+    height:100%;
+}
