@@ -6,7 +6,7 @@ Game-design is closely adherent to the Tetris Guidelines specified on the [Tetri
 This is still absolutely a WIP.
 
 ## Gameplay
-Find the game hosted [here](https://tetris.wjziv.com)!
+Find the game hosted [here](https://wjziv.github.io/tetris/)!
 
 Controls are consistent with those defined on the [Wiki](https://tetris.wiki/Tetris_Guideline#:~:text=to%20disable%20it.-,Controller%20mappings,-Standard%20mappings%20for).
 
